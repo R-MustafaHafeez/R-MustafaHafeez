@@ -1,4 +1,4 @@
-![logo]((https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg))
+![logo](https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)
 <h1 align="center">Hi 👋, I'm Mustafa Hafeez</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
 
