@@ -4,9 +4,9 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif"> </img>
 
-- 🔭 I’m currently studying **Computer Science**
+- 🔭 I’m a  **Computer Scientist**
 
-- 🌱 I’m currently learning **Cloud Enable Application**
+- 🌱 I’m currently learning **Python Development**
 
 - 💬 Ask me about **React,Nodejs,Express,MongoDB,Python**
 
