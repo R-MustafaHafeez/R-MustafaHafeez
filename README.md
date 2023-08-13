@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/HaseebFarooq200/HaseebFarooq200/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Mustafa Hafeez</h1>
-<h3 align="center">FULL STACK DEVELOPER</h3>
+<h3 align="center">DEVELOPER</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif"> </img>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python Development**
 
-- 💬 Ask me about **React,Nodejs,Express,MongoDB,Python**
+- 💬 Ask me about **Mongodb, Express, React, Node js, Python**
 
 - 📫 How to reach me **rmustafa.hafeez@gmail.com**
 
