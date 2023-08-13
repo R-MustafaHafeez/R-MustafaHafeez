@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/HaseebFarooq200/HaseebFarooq200/main/banner.jpg)
+![logo](https://kruschecompany.com/wp-content/uploads/2021/11/cover-image-for-blog-on-python-developer-salary-ranges-1280x595.png)
 <h1 align="center">Hi 👋, I'm Mustafa Hafeez</h1>
 <h3 align="center">DEVELOPER</h3>
 
