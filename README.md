@@ -1,14 +1,14 @@
 ![logo](https://kruschecompany.com/wp-content/uploads/2021/11/cover-image-for-blog-on-python-developer-salary-ranges-1280x595.png)
 <h1 align="center">Hi 👋, I'm Mustafa Hafeez</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Python Ai Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif"> </img>
 
-- 🔭 I’m a  **Computer Scientist**
+- 🔭 I’m a  **Developer**
 
 - 🌱 I’m currently learning **Python Development, Ethical Hacking`**
 
-- 💬 Ask me about **Mongodb, Express, React, Node js, Python**
+- 💬 Ask me about ** Python,AI,ML,Voice Agents,Ethical Hacking, **
 
 - 📫 How to reach me **rmustafa.hafeez@gmail.com**
 
