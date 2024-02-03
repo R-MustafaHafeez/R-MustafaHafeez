@@ -6,9 +6,9 @@
 
 - 🔭 I’m a  **Developer**
 
-- 🌱 I’m currently learning **Python Development, Ethical Hacking`**
+- 🌱 I’m currently learning **Python Development,AI Develoment, `**
 
-- 💬 Ask me about ** Python,AI,ML,Voice Agents,Ethical Hacking, **
+- 💬 Ask me about ** Python, AI, ML, Voice Agents,chat bots, llm  **
 
 - 📫 How to reach me **rmustafa.hafeez@gmail.com**
 
