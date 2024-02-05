@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python Development,AI Develoment, `**
 
-- 💬 Ask me about ** Python, AI, ML, Voice Agents,chat bots, llm  **
+- 💬 Ask me about ** Python, AI, ML, Voice Agents, Chat Bot, LLM  **
 
 - 📫 How to reach me **rmustafa.hafeez@gmail.com**
 
